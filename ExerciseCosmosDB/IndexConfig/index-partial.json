@@ -1,26 +1,26 @@
 {
-    "indexingMode": "consistent",
-    "automatic": true,
-    "includedPaths": [
-        {
-            "path": "/Item/id/?"
-        },
-        {
-          "path": "/Customer/email/?"
-        },
-        {
-          "path": "/OrderTime/?"
-        },
-        {
-          "path": "/Merchant/?"
-        },
-        {
-          "path": "/OrderStatus/?"
-        }
-    ],
-    "excludedPaths": [
-        {
-            "path": "/"
-        }
-    ]
+  "indexingMode": "consistent",
+  "automatic": true,
+  "includedPaths": [
+    {
+      "path": "/Item/id/?"
+    },
+    {
+      "path": "/Customer/id/?"
+    },
+    {
+      "path": "/OrderTime/?"
+    },
+    {
+      "path": "/Merchant/?"
+    },
+    {
+      "path": "/OrderStatus/?"
+    }
+  ],
+  "excludedPaths": [
+    {
+      "path": "/"
+    }
+  ]
 }
