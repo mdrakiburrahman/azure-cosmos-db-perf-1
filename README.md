@@ -1,4 +1,4 @@
-# Cosmos Optimization Tips & Tricks demo: **Beginner**
+# Cosmos Optimization Best Practices demo: **Beginner**
 
 This repository contains a beginner overview demo of foundational capabilities in Cosmos DB:
 
